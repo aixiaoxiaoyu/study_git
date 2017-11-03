@@ -1,0 +1,3 @@
+*.[ao]
+!clib.a
+debug/*.a
