@@ -1,1 +1,2 @@
 open door
+put elephant into frigde
