@@ -8,3 +8,4 @@ commit --amend
 add file
 add 2
 branch new
+branch new1
